@@ -1,2 +1,5 @@
 Features:
  - Nuevo sistema de log.
+- Multi-idioma
+- API-REST
+- JWT

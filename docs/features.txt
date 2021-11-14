@@ -1,1 +1,2 @@
-Este fichero servirá para añadir las mejoras del proyecto
+Features:
+ - Nuevo sistema de log.
